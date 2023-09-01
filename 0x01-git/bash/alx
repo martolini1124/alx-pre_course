@@ -1,2 +1,3 @@
-#!/bin/bash
-echo echo "ALX"
+
+# Contents of bash/alx
+echo "ALX School is so cool!"
